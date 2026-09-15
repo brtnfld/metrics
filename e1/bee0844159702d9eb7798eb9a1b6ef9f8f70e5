@@ -1,0 +1,15 @@
+METRICS_CATALOG.md
+  h_ec7c85911bb3c3 7,12-14
+  h_ec7c85911bb3c3 5
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "e1bee0844159702d9eb7798eb9a1b6ef9f8f70e5",
+  "prompts": {},
+  "humans": {
+    "h_ec7c85911bb3c3": {
+      "author": "M. Scot Breitenfeld <brtnfld@hdfgroup.org>"
+    }
+  }
+}
